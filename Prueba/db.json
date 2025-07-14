@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": "034a",
+      "username": "Kevin",
+      "password": "0520",
+      "role": "admin"
+    },
+    {
+      "id": "9815",
+      "username": "pipe",
+      "password": "pedrito20",
+      "role": "visitor"
+    },
+    {
+      "id": "3765",
+      "username": "hector",
+      "password": "321",
+      "role": "visitor"
+    }
+  ],
+  "events": [
+    {
+      "id": "4b11",
+      "name": "dfssdv",
+      "description": "vcds<vv",
+      "fecha": "2025-07-16",
+      "capacidad": 5,
+      "owner": "Kevin",
+      "attendees": []
+    },
+    {
+      "id": "f3b7",
+      "name": "hackaton",
+      "description": "asdfghjk",
+      "fecha": "2025-07-26",
+      "capacidad": 2,
+      "owner": "pipe",
+      "attendees": []
+    }
+  ]
+}
